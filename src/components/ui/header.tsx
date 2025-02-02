@@ -9,7 +9,7 @@ import { Menu, X } from "lucide-react"
 
 const navigationLinks = [
   { href: "#", label: "Услуги" },
-  { href: "#", label: "Бизнес-аналитик" },
+  { href: "/chat", label: "Бизнес-аналитик" },
   { href: "/calculators", label: "Калькуляторы" },
   { href: "/faq", label: "FAQ" },
 ]
