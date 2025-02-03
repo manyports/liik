@@ -118,7 +118,7 @@ export default function Page() {
             <div className="flex-grow">
               <h3 className="text-[#4169E1] font-medium mb-2">Пакет «Старт»</h3>
               <div className="mb-4">
-                <span className="text-3xl font-bold text-black">от 50 000 тг/мес</span>
+                <span className="text-3xl font-bold text-black">от 150 000 тг/мес</span>
                 <p className="text-sm text-gray-600">для предпринимателей, самозанятых, малого бизнеса</p>
               </div>
               <ul className="space-y-4 mb-8 text-black">
@@ -188,7 +188,7 @@ export default function Page() {
             <div className="flex-grow">
               <h3 className="text-[#4169E1] font-medium mb-2">Пакет «Бизнес»</h3>
               <div className="mb-4">
-                <span className="text-3xl font-black">от 100 000 тг/мес</span>
+                <span className="text-3xl font-black">от 280 000 тг/мес</span>
                 <p className="text-sm text-gray-600">ТОО, средний бизнес, торговля и услуги</p>
               </div>
               <ul className="space-y-4 mb-8">
@@ -269,7 +269,7 @@ export default function Page() {
             <div className="flex-grow">
               <h3 className="text-[#4169E1] font-medium mb-2">Пакет «Премиум»</h3>
               <div className="mb-4">
-                <span className="text-3xl font-black text-black">от 200 000 тг/мес</span>
+                <span className="text-3xl font-black text-black">от 440 000 тг/мес</span>
                 <p className="text-sm text-gray-600">крупные предприятия, холдинги, инвесторы</p>
               </div>
               <ul className="space-y-4 mb-8 text-black">
