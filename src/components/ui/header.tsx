@@ -8,7 +8,7 @@ import { Button } from "@/components/ui/button"
 import { Menu, X } from "lucide-react"
 
 const navigationLinks = [
-  { href: "#", label: "Услуги" },
+  { href: "/ai-accountant", label: "AI-Бухгалтер" },
   { href: "/chat", label: "Бизнес-аналитик" },
   { href: "/calculators", label: "Калькуляторы" },
   { href: "/faq", label: "FAQ" },
